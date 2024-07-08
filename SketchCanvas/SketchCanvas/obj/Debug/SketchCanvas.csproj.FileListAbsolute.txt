@@ -1,0 +1,5 @@
+C:\Users\Kofi Prince\source\repos\SketchCanvas\SketchCanvas\obj\Debug\SketchCanvas.csproj.AssemblyReference.cache
+C:\Users\Kofi Prince\source\repos\SketchCanvas\SketchCanvas\obj\Debug\SketchCanvas.SketchCanvas.resources
+C:\Users\Kofi Prince\source\repos\SketchCanvas\SketchCanvas\obj\Debug\SketchCanvas.Properties.Resources.resources
+C:\Users\Kofi Prince\source\repos\SketchCanvas\SketchCanvas\obj\Debug\SketchCanvas.csproj.GenerateResource.cache
+C:\Users\Kofi Prince\source\repos\SketchCanvas\SketchCanvas\obj\Debug\SketchCanvas.csproj.CoreCompileInputs.cache
