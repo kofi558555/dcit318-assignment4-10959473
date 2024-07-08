@@ -1,0 +1,6 @@
+C:\Users\Kofi Prince\source\repos\loginScreen\loginScreen\obj\Debug\loginScreen.csproj.AssemblyReference.cache
+C:\Users\Kofi Prince\source\repos\loginScreen\loginScreen\obj\Debug\loginScreen.Form1.resources
+C:\Users\Kofi Prince\source\repos\loginScreen\loginScreen\obj\Debug\loginScreen.Properties.Resources.resources
+C:\Users\Kofi Prince\source\repos\loginScreen\loginScreen\obj\Debug\loginScreen.csproj.GenerateResource.cache
+C:\Users\Kofi Prince\source\repos\loginScreen\loginScreen\obj\Debug\loginScreen.csproj.CoreCompileInputs.cache
+C:\Users\Kofi Prince\source\repos\loginScreen\loginScreen\obj\Debug\loginScreen.loginScreen.resources
